@@ -63,7 +63,7 @@ Le routage de la carte a été validé sous KiCad avec zéro erreur DRC selon le
 
 | Paramètre | Valeur Minimale Validée |
 | :--- | :--- |
-| **Largeur des pistes de signal** (`STEP`, `DIR`, `SERVO`) | `0.3 mm` *(Contrainte globale $\ge 0.2\text{ mm}$)* |
+| **Largeur des pistes de signal** (`STEP`, `DIR`, `SERVO`) | `0.3 mm`  |
 | **Largeur des pistes de puissance** (`+5V`, `+12V`, Moteurs) | `0.8 mm` à `2.5 mm` |
 | **Isolement entre pistes (Clearance)** | `0.3 mm` |
 | **Distance cuivre au bord de carte (Edge.Cuts)** | `0.5 mm` |
